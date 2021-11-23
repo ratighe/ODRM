@@ -1,0 +1,12 @@
+ModelFileName: ./iAF1260.cmd
+ModelFileName: ./iJN1463.cmd
+FluxFileName: flux_out_0x1bb80067730
+MediaFileName: media_out_0x1bb80067730
+BiomassFileName: biomass_0x1bb80067730
+TotalBiomassFileName: total_biomass_out_0x1bb80067730
+ModelFileName: ./iAF1260.cmd
+ModelFileName: ./iJN1463.cmd
+FluxFileName: flux_out_0x20e06d772b0
+MediaFileName: media_out_0x20e06d772b0
+BiomassFileName: biomass_0x20e06d772b0
+TotalBiomassFileName: total_biomass_out_0x20e06d772b0
