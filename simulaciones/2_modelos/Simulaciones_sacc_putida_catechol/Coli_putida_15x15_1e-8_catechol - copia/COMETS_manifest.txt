@@ -1,0 +1,6 @@
+ModelFileName: ./iMM904.cmd
+ModelFileName: ./iJN1463.cmd
+FluxFileName: flux_out_0x1d8ce989250
+MediaFileName: media_out_0x1d8ce989250
+BiomassFileName: biomass_0x1d8ce989250
+TotalBiomassFileName: total_biomass_out_0x1d8ce989250
